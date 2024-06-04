@@ -45,7 +45,7 @@ https://www.sayafx.top/
 
 Git 太难用？可以用 Github Desktop 软件，鼠标点点就能提交推送。
 
-![SourceTree 截图](./source/img/github.png)
+![Github Desktop 截图](./github.png)
 
 ## 写了不知道效果怎么样？
 
