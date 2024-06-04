@@ -4,10 +4,11 @@
 
 https://www.sayafx.top/
 
- * 游戏评测+精选cg
+ * 最新汉化资讯+分流存储
+ * 游戏评测/Gal杂谈+精选cg
  * 自建网盘下载 + 百度云 + onedrive + pikpak + 123网盘 + 磁力/种子
 
-现在招募志愿者帮助编写游戏评测
+现在招募志愿者帮助编写游戏评测/Gal杂谈
 
 
 
@@ -21,15 +22,15 @@ https://www.sayafx.top/
 
 打开仓库文件夹，命令行运行 npm install ，电脑上要装有 nodejs。
 
-假设新文章名字叫 new-article，在 source/_post/ 新建 一个 new-article.md，在 source/image 新建一个 new-article 文件夹，里面存放图片。
+假设新文章名字叫 new-article，在 source/_post/ 新建 一个 new-article.md，在 source/img 新建一个 new-article 文件夹，里面存放图片。
 
 使用 Markdown 编写，引用图片时使用
 
 ```
-![图片注解](../image/new-article/图片文件名)
+![图片注解](../img/new-article/图片文件名)
 ```
 
-注意 ，提交图片到 source/image 目录，建议使用 webp 格式，或者使用 PS 等软件进行压缩，加快图片加载。
+注意 ，提交图片到 source/img 目录，建议使用 webp 格式，或者使用 PS 等软件进行压缩，加快图片加载。
 
 遇到困难请直接查看 source/_post/ 文件夹内写好的文章示例。
 
@@ -53,7 +54,10 @@ Git 太难用？可以用 Github Desktop 软件，鼠标点点就能提交推送
 
 https://1024tools.com/markdown
 
-写完后，在命令行运行 hexo server，按照提示打开本地的网站即可预览效果。
+写完后，在命令行运行 hexo s，按照提示打开本地的网站即可预览效果。
 
 ## 分类，标签等特殊配置写法
+
 https://hexo.io/zh-cn/docs/front-matter
+
+或参考往期文章。
