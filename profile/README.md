@@ -18,7 +18,7 @@ https://www.sayafx.top/
 
 
 
-将这个仓库 fork 到你自己的 GitHub 账户，然后再克隆到本地。
+联系管理员申请加入组织，然后将 Moonpsalms 这个仓库 fork 到你自己的 GitHub 账户，然后再克隆到本地。
 
 打开仓库文件夹，命令行运行 npm install ，电脑上要装有 nodejs。
 
