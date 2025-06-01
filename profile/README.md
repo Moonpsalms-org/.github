@@ -1,6 +1,7 @@
 # 月谣Moonpsalms
 
-https://www.sayafx.space/
+https://www.sayafx.vip/
+https://www.sayafx.top/
 
 网盘分流+自建存储的 GalGame 免费下载网站，跟进最新汉化 GalGame 更新，尽量全收集汉化硬盘 GalGame 和 krkr&Tyranor 模拟器资源。
 
